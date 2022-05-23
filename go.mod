@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/notify
+module github.com/jresende/notify
 
 go 1.17
 
